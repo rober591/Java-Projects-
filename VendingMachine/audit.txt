@@ -1,0 +1,15 @@
+
+2022-06-22T17:45:42.501639 : Sale:1:Coke : 2.50:20.01:$1 COINS = 17 Pennies = 1quarters = 2
+2022-06-22T21:08:47.118862 : Sale:20:Dasani  Water : 3.50:23.51:$1 COINS = 20 Pennies = 1
+2022-06-22T21:59:23.423156 : Sale:6:Polar : 3.00:9.99:$1 COINS = 6 Pennies = 9nickels = 1dimes = 1quarters = 3
+2022-06-22T22:20:49.288694 : Sale:1:Coke : 2.50:2.55:$1 COINS = 0 Pennies = 0Nickels = 1
+2022-06-22T22:21:54.183529 : Sale:19:Red Bull Energy Drink : 6.50:45.99:$1 COINS = 39 Pennies = 9nickels = 1dimes = 1quarters = 1
+2022-06-22T23:42:05.298963 : Sale:19:Red Bull Energy Drink : 6.50:23.40:$1 COINS = 16 Pennies = 0nickels = 1dimes = 1quarters = 3
+2022-06-22T23:55:56.910153 : Sale:13:Diet Coke : 2.50:4.00:$1 COINS = 1  | quarters:2
+2022-06-22T23:57:22.492789 : Sale:13:Diet Coke : 2.50:5.00:$1 COINS = 2  | quarters:2
+2022-06-22T23:57:58.310218 : Sale:7:Minute Maid : 3.50:12.99:$1 COINS = 9  | Pennies:9 | nickels:1 | dimes:1 | quarters:1
+2022-06-23T00:02:59.972788 : Sale:20:Dasani  Water : 3.50:23.99:Dollar Coins:20  | Pennies:9 | nickels:1 | dimes:1 | quarters:1
+2022-06-24T01:22:34.288274 : Sale:20:Dasani  Water : 3.50:23.99:Dollar Coins:20  | Pennies:9 | nickels:1 | dimes:1 | quarters:1
+2022-06-24T01:23:35.385761 : Sale:20:Dasani  Water : 3.50:5.00:Dollar Coins:1  | quarters:2
+2022-06-26T13:16:06.715312 : Sale:20:Dasani  Water : 3.50:5.00:Dollar Coins:1  | quarters:2
+2022-06-26T14:26:13.132884 : Sale:17:Raspberry lemonade : 4.15:6.00:Dollar Coins:1  | Pennies:5 | nickels:1 | quarters:3

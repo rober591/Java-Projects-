@@ -1,0 +1,9 @@
+robertoandrade/dvdlibrary/App.class
+robertoandrade/dvdlibrary/ui/ClassDVDLibraryView.class
+robertoandrade/dvdlibrary/controller/ClassDVDLibraryController.class
+robertoandrade/dvdlibrary/ui/UserIO.class
+dvdlibrary/dao/ClassDvdlibraryDaoFileImpl.class
+robertoandrade/dvdlibrary/dto/Dvd.class
+dvdlibrary/dao/ClassDvdDao.class
+robertoandrade/dvdlibrary/ui/UserIOConsoleImple.class
+robertoandrade/dvdlibrary/ClassDvdDaoException.class

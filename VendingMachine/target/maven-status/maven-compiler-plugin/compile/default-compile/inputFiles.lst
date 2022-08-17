@@ -1,0 +1,15 @@
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/VMachineServiceLayer/DataValidationException.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/DAO/DaoInterface.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/Controller/ControllerClass.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/VMachineServiceLayer/InsufficientFundsException.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/robertoandrade/Dto/Product.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/VMachineServiceLayer/ServiceInterface.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/VMachineServiceLayer/ServiceInterfaceLayerImpl.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/DAO/ClassDAOPersistenceException.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/robertoandrade/UI/UserInterface.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/robertoandrade/UI/UserIOImplementation.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/DAO/DAOAuditInterface.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/DAO/DAOFileImpl.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/robertoandrade/vendingmachine/AppVendingMachine.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/robertoandrade/UI/UIView.java
+/Users/elizabeth/NetBeansProjects/VendingMachine/src/main/java/DAO/DAOAuditFileImpl.java

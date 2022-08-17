@@ -1,0 +1,20 @@
+Coke :: 2.50::29::
+Pepsi :: 2.50::30::
+Sprite :: 2.50::34::
+Snapple Juice ::2.85::43::
+Schweppes :: 2.90::23::
+Polar :: 3.00::11::
+Minute Maid :: 3.50::3::
+Tropicana :: 3.65::8::
+Lipton Tea::4.00::19::
+Honest Tea::4.10::4::
+Gold Peak Tea :: 4.50::0::
+Gatorade :: 3.95::1::
+Diet Coke :: 2.50::40::
+Mountain Dew  :: 2.70::32::
+Dr. Pepper :: 2.60 ::27::
+Vitamin Water :: 3.40::19::
+Raspberry lemonade :: 4.15::37::
+Monster Energy Drink :: 6.00::43::
+Red Bull Energy Drink :: 6.50::25::
+Dasani  Water :: 3.50::11::

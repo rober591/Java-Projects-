@@ -1,0 +1,1 @@
+This program is a Java Console Application called DogGenetics.Rules* a program that asks the user for the name of their dog, and then generates a fake DNA background report on the pet dog.* It should assign a random percentage to 5 dog breeds (that should add up to 100%!)Ê
